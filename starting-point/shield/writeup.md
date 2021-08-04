@@ -3,7 +3,7 @@ IP: 10.10.10.29
 
 Tis is the 4th box in the HTB Starting Point zone.  It's a Windows box with no user flag.  Let's see what we find :)
 
-(Note: this box took me several days before I finally looked at the writeup.  Scroll to the bottm for [the final solution](#day-5-clean-walkthrough)
+(Note: this box took me several days before I finally looked at the writeup.  Scroll to the bottm for [the final solution](#day-5---clean-walkthrough)
 
 ## Day 1
 
